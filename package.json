@@ -1,0 +1,19 @@
+{
+  "name": "r6-callouts",
+  "version": "1.0.0",
+  "description": "R6 Callouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandbochs/r6-callouts.git"
+  },
+  "author": "Elliot Shiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandbochs/r6-callouts/issues"
+  },
+  "homepage": "https://github.com/sandbochs/r6-callouts#readme"
+}
